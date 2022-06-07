@@ -81,10 +81,7 @@
 .bold{
     font-weight: 700;
 }
-footer{
-    padding: 30px;
-    background-color: rgb(0, 0, 0);
-}
+
 .about{
     padding-bottom: 20px;
     padding-left: 5px;
@@ -98,4 +95,12 @@ footer{
 }
 .coursebg{
     background-image: url(../image/black-g4f6a97986_1920.jpg);
+}
+footer{
+    text-align: center;
+    background-color: lightgray;
+    padding: 30px;
+}
+.footerp li a{
+    padding: 20px;
 }
